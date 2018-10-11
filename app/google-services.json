@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779773146606",
+    "firebase_url": "https://uberclone-70f6c.firebaseio.com",
+    "project_id": "uberclone-70f6c",
+    "storage_bucket": "uberclone-70f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779773146606:android:6097c97af9d78885",
+        "android_client_info": {
+          "package_name": "com.hilbing.snapchat.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779773146606-c9kc4ndf1ur0pgqijbdmb4i5s7e6t1is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hilbing.snapchat.uberclone",
+            "certificate_hash": "ffa4cb8c29b9ed25cef2a2f064ad500b54e08f35"
+          }
+        },
+        {
+          "client_id": "779773146606-959vu5n13ru1q9krbe8j4322b2k3ccsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jWRPjrjs2O5qL8xa5hgE-OV-GaJUyJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779773146606-959vu5n13ru1q9krbe8j4322b2k3ccsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
